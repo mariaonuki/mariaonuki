@@ -8,12 +8,12 @@
    
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mariaonuki&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
+    srcset="https://github-readme-stats.vercel.app/api?username=mariaonuki&show_icons=true&theme=synthwave"
+    media="(prefers-color-scheme: synthwave)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=mariaonuki&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mariaonuki&show_icons=true" />
 </picture>
