@@ -12,8 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mariaonuki&show_icons=true" />
 </picture>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6EAxaAk1eZx0aqqH4ff4rP?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <div>
    <a href="https://github.com/mariaonuki">
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
