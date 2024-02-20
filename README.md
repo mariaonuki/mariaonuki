@@ -8,7 +8,6 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mariaonuki&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mariaonuki&show_icons=true" />
 </picture>
